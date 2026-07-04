@@ -117,7 +117,7 @@ Feel free to fork this repository and submit a pull request.
 
 ## 👩‍💻 Author
 
-**Chhavi Sharma**
+**MAHI**
 
 - GitHub: https://github.com/hellomahii
 
