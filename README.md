@@ -72,21 +72,6 @@ Open `index.html` in your preferred browser.
 
 ---
 
-## 📸 Screenshots
-
-> Add screenshots of your project here.
-
-Example:
-
-```text
-screenshots/
-├── homepage.png
-├── collections.png
-└── footer.png
-```
-
----
-
 ## 🌐 Live Demo
 
 🔗 **https://hellomahii.github.io/Luxe/**
